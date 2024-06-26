@@ -25,6 +25,10 @@ Code Server is used to launch VSCode on browser using Agro Tunnel in Google Cola
 
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
 
+### Colab Threatens to Ban, Why?
+
+**Recent changes in Colaboratory T&C prohibits the following actions and could result in ban from colab[^1].**
+
  - file hosting, media serving, or other web service offerings not related to interactive compute with Colab
  - downloading torrents or engaging in peer-to-peer file-sharing
  -  using a remote desktop or SSH
@@ -57,4 +61,8 @@ The changes are made because resources in Colab are prioritized for interactive 
  
 -----
 Credits: [𝐖𝐎𝐎𝐃𝐜𝐫𝐚𝐟𝐭](https://t.me/Farooq_is_KING)
+
+[Colab Badge]:          https://colab.research.google.com/assets/colab-badge.svg
+[License-Badge]:        https://img.shields.io/badge/License-MIT-blue.svg
+[^1]:                   https://research.google.com/colaboratory/faq.html#limitations-and-restrictions
 
