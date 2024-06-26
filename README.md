@@ -11,7 +11,7 @@ Colab RDP is used to get Remote Connection to Google Colaboratory with graphic u
 
 <a href="https://colab.research.google.com/github/SudoR2spr/RDP-Colab/blob/master/RDP-Colab/RDP%20Colab.ipynb/" target="_blank">
   <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/wd-rdp.png" alt="RDP To Google Colab" style="width:200px;"/>
-</a>
+</a><p align="center">
 
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%"><p align="center">
 <!-- RAINBOW LINE TOP -->
@@ -23,7 +23,7 @@ Code Server is used to launch VSCode on browser using Agro Tunnel in Google Cola
 
 <a href="https://colab.research.google.com/github/SudoR2spr/RDP-Colab/blob/master/VS-Code%20Server/Code%20Server.ipynb\" target="_blank">
   <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/vs-code.png" alt="VS Code To Google Colab" style="width:200px;"/>
-</a>
+</a><p align="center">
 
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%"><p align="center">
 
