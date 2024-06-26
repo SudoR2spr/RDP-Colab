@@ -4,7 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4250F7&background=FF512800&center=true&vCenter=true&width=435&lines=%F0%9D%90%96%F0%9D%90%8E%F0%9D%90%8E%F0%9D%90%83%F0%9D%90%9C%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%9F%F0%9D%90%AD+%F0%9D%90%8C%F0%9D%90%A2%F0%9D%90%AB%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%AB+%F0%9D%90%99%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%9E%E2%84%A2)](https://git.io/typing-svg)</p>
 <p align="center">
 <!-- RAINBOW LINE TOP -->
-Iam Google Colab button 👇 `नीचे देखो तो सही` 👇
+Colab RDP is used to get Remote Connection to Google Colaboratory with graphic user interface. It can be used to boost your productivity and you can perform heavy task without any worries.  
+# Iam Google Colab button 👇 `नीचे तो देखो` 👇
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
 
 <a href="https://colab.research.google.com/github/SudoR2spr/RDP-Colab/blob/master/RDP-Colab/RDP%20Colab.ipynb/" target="_blank">
@@ -12,15 +13,34 @@ Iam Google Colab button 👇 `नीचे देखो तो सही` 👇
 </a>
 
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
+<!-- RAINBOW LINE TOP -->
+### 💻 VS Code To Google Colab
+Code Server is used to launch VSCode on browser using Agro Tunnel in Google Colaboratory which gives you better coding experience and you can use it for write code.
+# Iam Google Colab button 👇 `नीचे तो देखो` 👇
+<img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
 
- - Create User
- - Don't use username : `root`
- - Authenticate Through [Remote Desktop Headless](http://remotedesktop.google.com/headless)<br>Dont Download any file simply proceed directly to authenticate button. When you got a command copy and paste it to RDP code block and complete the process by setting up a Pin.
- - Now, Visit Remote Desktop at http://remotedesktop.google.com/ to access your instance
- - Optional: Mount GDrive
- - Optional: Use NGROK for SSH
+<a href="https://colab.research.google.com/github/SudoR2spr/RDP-Colab/blob/master/VS-Code%20Server/Code%20Server.ipynb\" target="_blank">
+  <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/vs-code.png" alt="VS Code To Google Colab" style="width:200px;"/>
+</a>
+
+<img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%">
+
+ - file hosting, media serving, or other web service offerings not related to interactive compute with Colab
+ - downloading torrents or engaging in peer-to-peer file-sharing
+ -  using a remote desktop or SSH
+ - connecting to remote proxies
+ -  mining cryptocurrency
+ - running denial-of-service attacks
+ - password cracking
+ 
+using multiple accounts to work around access or resource usage restrictions
+
+This means all the notebooks present in this repository are prohibited and use with your own risk. To discuss, follow up on issue [#00](https://github.com/SudoR2spr/RDP-Colab/issues/).
+
+The changes are made because resources in Colab are prioritized for interactive use cases.
 
 ### 💻 RDP To Google Colab
+### 💻 VS Code To Google Colab
 <p align="center">
   <a href="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/wd-rdp.png">
     <img alt="Video Tutorial" src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/wd-rdp.png">
