@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4250F7&background=FF512800&center=true&vCenter=true&width=435&lines=%F0%9D%90%96%F0%9D%90%8E%F0%9D%90%8E%F0%9D%90%83%F0%9D%90%9C%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%9F%F0%9D%90%AD+%F0%9D%90%8C%F0%9D%90%A2%F0%9D%90%AB%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%AB+%F0%9D%90%99%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%9E%E2%84%A2)](https://git.io/typing-svg)</p>
 <p align="center">
 <!-- RAINBOW LINE TOP -->
-# 💻 RDP To Google Colab
+**💻 RDP To Google Colab**
   
 Colab RDP is used to get Remote Connection to Google Colaboratory with graphic user interface. It can be used to boost your productivity and you can perform heavy task without any worries.
   
@@ -20,7 +20,7 @@ Colab RDP is used to get Remote Connection to Google Colaboratory with graphic u
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%"></p>
 <p align="center">
 <!-- RAINBOW LINE TOP -->
-# 💻 VS Code To Google Colab
+**💻 VS Code To Google Colab**
   
 Code Server is used to launch VSCode on browser using Agro Tunnel in Google Colaboratory which gives you better coding experience and you can use it for write code.
 
