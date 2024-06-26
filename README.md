@@ -7,25 +7,31 @@
 Colab RDP is used to get Remote Connection to Google Colaboratory with graphic user interface. It can be used to boost your productivity and you can perform heavy task without any worries.
   
 # Iam Google Colab button 👇 `नीचे तो देखो` 👇
-<img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%"><p align="center">
+<img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%"></p>
+<p align="center">
 
 <a href="https://colab.research.google.com/github/SudoR2spr/RDP-Colab/blob/master/RDP-Colab/RDP%20Colab.ipynb/" target="_blank">
   <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/wd-rdp.png" alt="RDP To Google Colab" style="width:200px;"/>
-</a><p align="center">
+</a></p>
+<p align="center">
 
-<img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%"><p align="center">
+<img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%"></p>
+<p align="center">
 <!-- RAINBOW LINE TOP -->
 ### 💻 VS Code To Google Colab
 Code Server is used to launch VSCode on browser using Agro Tunnel in Google Colaboratory which gives you better coding experience and you can use it for write code.
 
 # Iam Google Colab button 👇 `नीचे तो देखो` 👇
-<img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%"><p align="center">
+<img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%"></p>
+<p align="center">
 
 <a href="https://colab.research.google.com/github/SudoR2spr/RDP-Colab/blob/master/VS-Code%20Server/Code%20Server.ipynb\" target="_blank">
   <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/vs-code.png" alt="VS Code To Google Colab" style="width:200px;"/>
-</a><p align="center">
+</a></p>
+<p align="center">
 
-<img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%"><p align="center">
+<img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%"></p>
+<p align="center">
 
 ### Colab Threatens to Ban, Why?
 
