@@ -4,14 +4,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4250F7&background=FF512800&center=true&vCenter=true&width=435&lines=%F0%9D%90%96%F0%9D%90%8E%F0%9D%90%8E%F0%9D%90%83%F0%9D%90%9C%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%9F%F0%9D%90%AD+%F0%9D%90%8C%F0%9D%90%A2%F0%9D%90%AB%F0%9D%90%AB%F0%9D%90%A8%F0%9D%90%AB+%F0%9D%90%99%F0%9D%90%A8%F0%9D%90%A7%F0%9D%90%9E%E2%84%A2)](https://git.io/typing-svg)</p>
 <p align="center">
 <!-- RAINBOW LINE TOP -->
-Colab RDP is used to get Remote Connection to Google Colaboratory with graphic user interface. It can be used to boost your productivity and you can perform heavy task without any worries.
+- Colab RDP is used to get Remote Connection to Google Colaboratory with graphic user interface. It can be used to boost your productivity and you can perform heavy task without any worries.
   
 # Iam Google Colab button 👇 `नीचे तो देखो` 👇
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%"></p>
 <p align="center">
 
 <a href="https://colab.research.google.com/github/SudoR2spr/RDP-Colab/blob/master/RDP-Colab/RDP%20Colab.ipynb/" target="_blank">
-  <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/wd-rdp.png" alt="RDP To Google Colab" style="width:200px;"/>
+  <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/wd-rdp.png" alt="RDP To Google Colab" style="width:150px;"/>
 </a></p>
 <p align="center">
 
@@ -21,14 +21,30 @@ Colab RDP is used to get Remote Connection to Google Colaboratory with graphic u
   
 # 💻 VS Code To Google Colab
   
-Code Server is used to launch VSCode on browser using Agro Tunnel in Google Colaboratory which gives you better coding experience and you can use it for write code.
+- Code Server is used to launch VSCode on browser using Agro Tunnel in Google Colaboratory which gives you better coding experience and you can use it for write code.
 
 # Iam Google Colab button 👇 `नीचे तो देखो` 👇
 <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%"></p>
 <p align="center">
 
 <a href="https://colab.research.google.com/github/SudoR2spr/RDP-Colab/blob/master/VS-Code%20Server/Code%20Server.ipynb\" target="_blank">
-  <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/vs-code.png" alt="VS Code To Google Colab" style="width:200px;"/>
+  <img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/vs-code.png" alt="VS Code To Google Colab" style="width:150px;"/>
+</a></p>
+<p align="center">
+
+<img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%"></p>
+<p align="center">
+
+# 💻 Torrent Downloader To Google Colab
+  
+- Torrent Downloader is Colab based Torrent Downloader in which you doesn't need any torrent client only just a google account for downloading and storing downloaded torrents into google drive.
+
+# Iam Google Colab button 👇 `नीचे तो देखो` 👇
+<img src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/line-neon.gif" width="100%"></p>
+<p align="center">
+
+<a href="https://colab.research.google.com/github/SudoR2spr/RDP-Colab/blob/master/Torrent%20Downloader/Torrent%20Downloader.ipynb\" target="_blank">
+  <img src="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/assets/Torrent-Downloader.png" alt="Torrent Downloader To Google Colab" style="width:150px;"/>
 </a></p>
 <p align="center">
 
@@ -55,9 +71,10 @@ The changes are made because resources in Colab are prioritized for interactive 
 
 ### 💻 RDP To Google Colab
 ### 💻 VS Code To Google Colab
+### 💻 Torrent Downloader To Google Colab
 <p align="center">
   <a href="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/wd-rdp.png">
-    <img alt="Video Tutorial" src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/wd-rdp.png">
+    <img alt="Video Tutorial" src="https://github.com/SudoR2spr/SudoR2spr/raw/main/assets/wd-rdp.png" width="300px">
   </a>
 </p>
 
